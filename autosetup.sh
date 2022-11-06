@@ -216,7 +216,6 @@ printf 'Lore group ID: '
 read Lore
 printf "Lore=$Lore\n">> .env
 
-echo "d"
 
 
 exec git clone https://github.com/Kw6m/Terminal
